@@ -1,8 +1,4 @@
-I'll help you deploy your diabetes prediction model for free. Here are several options with step-by-step implementations:
 
-## Option 1: Streamlit + Streamlit Cloud (Recommended)
-
-### Step 1: Create Streamlit App
 
 Create `app.py`:
 
